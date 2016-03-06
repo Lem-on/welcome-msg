@@ -5,6 +5,5 @@ if(message == ""){
 API.sendChat("@" + data.username Vítám tě! :)");
 } else {
 API.sendChat(message + " @" + data.username);
-
 }
-});
+
